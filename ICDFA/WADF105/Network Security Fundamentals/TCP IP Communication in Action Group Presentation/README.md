@@ -1,7 +1,6 @@
-==============================================================
+
 INTERNATIONAL CYBERSECURITY AND DIGITAL FORENSICS ACADEMY
 Fellowship in Cybersecurity and Digital Forensics (FCDF)
-==============================================================
 
 COHORT  : FCDF-COHORT-11
 TEAM    : TEAM-09
