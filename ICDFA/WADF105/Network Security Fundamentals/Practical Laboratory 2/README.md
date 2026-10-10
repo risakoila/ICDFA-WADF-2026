@@ -1,4 +1,6 @@
-# WADF105 Practical Laboratory 2: OPNsense Firewall Policy Testing
+# WADF105 Practical Laboratory 2
+
+## OPNsense Firewall Policy Testing
 
 This repository contains the laboratory report and evidence for Practical Laboratory 2: OPNsense Firewall Policy Testing, Logging and Packet Analysis.
 
